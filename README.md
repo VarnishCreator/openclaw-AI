@@ -23,15 +23,6 @@ It answers you on the channels you already use (WhatsApp, Telegram, Slack, Disco
 
 If you want a personal, single-user assistant that feels local, fast, and always-on, this is it.
 
-[Website](https://openclaw.ai) · [Docs](https://docs.openclaw.ai) · [DeepWiki](https://deepwiki.com/openclaw/openclaw) · [Updating](https://docs.openclaw.ai/install/updating) · [Showcase](https://docs.openclaw.ai/start/showcase) · [FAQ](https://docs.openclaw.ai/start/faq) · [Wizard](https://docs.openclaw.ai/start/wizard) · [Nix](https://github.com/openclaw/nix-openclaw) · [Docker](https://docs.openclaw.ai/install/docker) · [Discord](https://discord.gg/clawd)
-
-**Subscriptions (OAuth):**
-
-- **[Anthropic](https://www.anthropic.com/)** (Claude Pro/Max)
-- **[OpenAI](https://openai.com/)** (ChatGPT/Codex)
-
-Model note: while any model is supported, I strongly recommend **Anthropic Pro/Max (100/200) + Opus 4.6** for long‑context strength and better prompt‑injection resistance. See [Onboarding](https://docs.openclaw.ai/start/onboarding).
-
 ## Quick start 
 
 
